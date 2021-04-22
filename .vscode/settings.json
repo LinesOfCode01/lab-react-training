@@ -1,0 +1,6 @@
+{
+    "bracketPairColorizer.showBracketsInRuler": true,
+    "bracketPairColorizer.highlightActiveScope": true,
+    "bracketPairColorizer.forceUniqueOpeningColor": true,
+    "bracketPairColorizer.colorMode": "Independent"
+}
